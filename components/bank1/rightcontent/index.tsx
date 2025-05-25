@@ -97,10 +97,6 @@ export default function RightContent() {
               <p>배팅폴더</p>
               <p className="text-yellow-400">0 개</p>
             </div>
-            <div className="flex flex-row justify-between border-b py-2 border-zinc-700">
-              <p>배팅금액</p>
-              <input type="text" className="bg-white rounded-md text-black" />
-            </div>
 
             <div className="grid grid-cols-4 gap-1">
               {betButtons.map((amount, i) => (

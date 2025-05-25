@@ -152,7 +152,7 @@ td:hover {
   color: white;
   text-shadow: 0rem 0rem 0.5rem #000000;
   mix-blend-mode: normal;
-} 
+}
 .nav-btn-secondary:hover {
   color: var(--text-primary);
   text-shadow: 0rem 0rem 0.3rem;
@@ -234,7 +234,7 @@ td:hover {
 }
 .navspec {
   position: relative;
-  padding: 0.15rem 0.6rem; /* adjust as needed */
+  padding: 0.15rem; /* adjust as needed */
   overflow: hidden;
 }
 

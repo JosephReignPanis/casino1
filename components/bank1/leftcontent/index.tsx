@@ -90,7 +90,7 @@ export default function LeftContent() {
           <Link key={index} href={path} className="">
             <Image
               src={src}
-              width={40}
+              width={120}
               height={40}
               alt="sd"
               className="w-full h-full hover:brightness-150"
