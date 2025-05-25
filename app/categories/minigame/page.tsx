@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { JSX, useState } from "react";
 import Image from "next/image";
 import React from "react";
 import Bet365Board from "@/components/reusable/bet365board/page";
