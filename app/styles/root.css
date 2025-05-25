@@ -1,0 +1,52 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --primary-hr-gradient: linear-gradient(
+      to right,
+      #cdb575,
+      #452113,
+      #a6702a,
+      #a36c2b,
+      #f4f0e4,
+      #9f6c2a,
+      #a9752a,
+      #d5be7b
+    );
+    --secondary-hr-gradient: linear-gradient(
+      to right,
+      #cdb575,
+      #f4f0e4,
+      #9f6c2a,
+      #d5be7b
+    );
+    --primary-btn-gradient: linear-gradient(
+      to right,
+      #825117,
+      #fedd8e,
+      #825117
+    );
+    --nav-btn-gradient: linear-gradient(to right, #825117, #c29d47, #825117);
+    --nav-btn-gradient-hover: linear-gradient(
+      to right,
+      #825117,
+      #c29d47,
+      #825117
+    );
+    --primary-bg-gradient: linear-gradient(to top, #261802, #ba892d);
+
+    --primary-header-gradient: linear-gradient(
+      to right,
+      #926814,
+      #caa645,
+      #926814
+    );
+    --secondary-bg-gradient: linear-gradient(to top, #663e09, #caa645);
+    --secondary-bg-gradient-hover: linear-gradient(to top, #91620a, #c7a64d);
+    --silver-btn-gradient: linear-gradient(to top, #323232, #565656);
+    --silver-btn-gradient-hover: linear-gradient(to top, #434343, #727272);
+    --text-primary: linear-gradient(to top, #be8e12, #fffbeb);
+    --text-primary-hover: linear-gradient(to top, #ffdd00, #fffbeb);
+    --sb-gradient: linear-gradient(to top, #181200, #2b1d02, #181200);
+  }
+}
